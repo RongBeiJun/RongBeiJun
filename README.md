@@ -1,5 +1,5 @@
 
-</h1>Hi ,I'm RBJ
+### Hi ,I'm RBJ
 
 <!-- <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;Always+Be+Coding" alt="Typing SVG" />
@@ -25,7 +25,7 @@
 <p align="right">
   <a href="https://github.com/RongBeiJun"><img src="https://komarev.com/ghpvc/?username=RongBeiJun&abbreviated=true&color=yellow" ></a>
 </p>
----
+
 
 ## 📫 Contact Me
 <p align="left">
