@@ -1,13 +1,9 @@
 
-</h1>
+</h1>Hi ,I'm RBJ
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00C853&width=435&lines=Full-Stack+Developer;Open-Source+Enthusiast;Always+Be+Coding" alt="Typing SVG" />
-</p>
-
-<p align="right">
-  <a href="https://github.com/RongBeiJun"><img src="https://komarev.com/ghpvc/?username=RongBeiJun&abbreviated=true&color=yellow" ></a>
-</p>
+</p> -->
 
 ---
 
@@ -26,7 +22,9 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RongBeiJun&layout=compact&theme=radical&v=1" height="165" alt="Top Langs" />
 </p>
-
+<p align="right">
+  <a href="https://github.com/RongBeiJun"><img src="https://komarev.com/ghpvc/?username=RongBeiJun&abbreviated=true&color=yellow" ></a>
+</p>
 ---
 
 ## 📫 Contact Me
