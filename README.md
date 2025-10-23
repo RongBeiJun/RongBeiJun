@@ -24,7 +24,7 @@
 
 ## 📊 Open Source Project Used Langs
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RongBeiJun&layout=compact&theme=radical" height="165" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RongBeiJun&layout=compact&theme=radical&v=1" height="165" alt="Top Langs" />
 </p>
 
 ---
