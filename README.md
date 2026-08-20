@@ -14,11 +14,7 @@
   <img src="https://skillicons.dev/icons?i=git,docker,linux,md,vscode,androidstudio,nginx,idea,pycharm,mysql" alt="Tools" />
 </p>
 
-## 📊 Open Source Project Used Langs
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RongBeiJun&layout=compact&theme=radical&v=1" height="165" alt="Top Langs" />
-</p>
-<p align="right">
   <a href="https://github.com/RongBeiJun"><img src="https://komarev.com/ghpvc/?username=RongBeiJun&abbreviated=true&color=yellow" ></a>
 </p>
 
