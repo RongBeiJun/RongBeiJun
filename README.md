@@ -32,17 +32,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RongBeiJun&show_icons=true&theme=transparent&hide_border=true&rank_icon=github" alt="GitHub Stats">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RongBeiJun&layout=compact&theme=transparent&hide_border=true" alt="Top Languages">
-</p>
-
----
 
 ## 🔥 Contribution Streak
 
@@ -52,13 +41,6 @@
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RongBeiJun&theme=github-compact&hide_border=true&area=true" alt="Contribution Graph">
-</p>
-
----
 
 ## 📫 Contact Me
 
