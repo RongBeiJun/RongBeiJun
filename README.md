@@ -16,6 +16,7 @@
 
 <p align="left">
   <a href="https://github.com/RongBeiJun"><img src="https://komarev.com/ghpvc/?username=RongBeiJun&abbreviated=true&color=yellow" ></a>
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RongBeiJun&show_icons=true&include_all_commits=true)
 </p>
 
 ## 📫 Contact Me
